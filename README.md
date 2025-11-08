@@ -30,7 +30,7 @@ This first version was built from scratch and achieved \*\*~75% accuracy\*\* on 
 
 &nbsp;   ```bash
 
-&nbsp;   git clone \[https://github.com/YOUR-USERNAME/Neural-Petwork.git](https://github.com/YOUR-USERNAME/Neural-Petwork.git)
+&nbsp;   git clone \[https://github.com/shreeshanthnaik/Neural-Petwork.git](https://github.com/shreeshanthnaik/Neural-Petwork.git)
 
 &nbsp;   cd Neural-Petwork
 
